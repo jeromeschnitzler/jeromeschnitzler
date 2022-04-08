@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeromeschnitzler
 - 👀 I’m interested in Webdevelopment and Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Spanish
 - 💞️ I’m looking to collaborate on a real estate project
 - 📫 sirschnitzler+github@gmail.com
 
