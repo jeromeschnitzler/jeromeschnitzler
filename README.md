@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jeromeschnitzler
-- 👀 I’m interested in Webdevelopment and Python
+- 👀 I’m interested in Webdevelopment, Swift and Python
 - 🌱 I’m currently learning Spanish
-- 💞️ I’m looking to collaborate on a real estate project
-- 📫 sirschnitzler+github@gmail.com
 
 <!---
 jeromeschnitzler/jeromeschnitzler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
